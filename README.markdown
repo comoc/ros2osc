@@ -1,3 +1,6 @@
+**Notice**
+**I am forking [rososc](https://github.com/Auburn-Automow/rososc) and attempting to add ROS 2 support, but it is still under development and does not work with ROS 2 yet.**
+
 ROS Stack for interacting with Open Sound Control Hardware and Software                                                                                  
 
 Includes:                                                                            
